@@ -1,4 +1,4 @@
-# POLYGON_Adventure_script_only
+# POLYGON_Turnbase_script_only
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Unity](https://img.shields.io/badge/unity-2022.1%2B-green.svg)](https://unity3d.com/get-unity/download)
