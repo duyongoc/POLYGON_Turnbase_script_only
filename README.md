@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Unity](https://img.shields.io/badge/unity-2022.1%2B-green.svg)](https://unity3d.com/get-unity/download)
 
-Game: [WebGL](https://webunity.github.io/webgl_POLYGON_Adventure)
+Game: [WebGL](https://webunity.github.io/webgl_POLYGON_Turnbase)
 
 Demo: [Youtube](https://youtu.be/P06ZWVtaAYM)
 
