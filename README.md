@@ -5,7 +5,7 @@
 
 Game: [WebGL](https://webunity.github.io/webgl_POLYGON_Turnbase)
 
-Demo: [Youtube](https://youtu.be/P06ZWVtaAYM)
+Demo: [Youtube](https://youtu.be/i3wcBk7k2WA)
 
 ![Image Sequence_009_0000](https://github.com/user-attachments/assets/5da49ef9-78c3-410f-a231-5a53f553fcdb)
 ![Image Sequence_011_0000](https://github.com/user-attachments/assets/b2713297-ba37-434b-8b3a-c8fdd1b825f1)
